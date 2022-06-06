@@ -74,8 +74,8 @@ footer a:hover {
 	color:#ffffff;
 }
 
-@media screen and (max-width:1020px) {
+@media screen and (max-width:1060px) {
 	main {
-		margin:0 20px;
+		margin:0 40px;
 	}
 }
